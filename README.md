@@ -15,7 +15,7 @@ The goal is to improve:
 ### Patterns
 
 * [x] 01 — Rectangular Star Pattern
-* [ ] 02 — Right-Angled Triangle Pattern
+* [x] 02 — Right-Angled Triangle Pattern
 * [ ] 03 — Inverted Right-Angled Triangle
 * [ ] ...
 
