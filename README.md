@@ -20,7 +20,7 @@ The goal is to improve:
 * [x] 04 — Number Repetition
 * [x] 05 — Inverted Right-Angled Triangle
 * [x] 06 — Inverted Number Triangle
-* [ ] ...
+* [x] 07 — Pyramid Star Pattern
 
 ## Approach
 
