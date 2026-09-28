@@ -19,7 +19,7 @@ The goal is to improve:
 * [x] 03 — Number Triangle
 * [x] 04 — Number Repetition
 * [x] 05 — Inverted Right-Angled Triangle
-* [ ] 06 — ...
+* [x] 06 — Inverted Number Triangle
 * [ ] ...
 
 ## Approach
