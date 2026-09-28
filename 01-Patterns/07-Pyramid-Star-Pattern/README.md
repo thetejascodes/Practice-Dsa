@@ -26,7 +26,7 @@ Output:
 * The outer loop controls the number of rows.
 * For each row, we print `n - i` spaces on the left to center the pyramid.
 * Then we print `2 * i - 1` stars to form the row.
-* This creates a symmetric pyramid with one more star in each successive row.
+* This creates a symmetric pyramid with two more star in each successive row.
 
 ## Complexity
 
