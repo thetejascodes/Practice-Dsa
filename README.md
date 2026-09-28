@@ -18,7 +18,8 @@ The goal is to improve:
 * [x] 02 — Right-Angled Triangle Pattern
 * [x] 03 — Number Triangle
 * [x] 04 — Number Repetition
-* [ ] 05 — ...
+* [x] 05 — Inverted Right-Angled Triangle
+* [ ] 06 — ...
 * [ ] ...
 
 ## Approach
@@ -32,7 +33,3 @@ For every problem, I try to:
 5. Test it
 6. Analyze complexity
 7. Explain the solution in my own words
-
-## Goal
-
-Build strong problem-solving fundamentals by solving problems consistently and understanding **why** the solution works, rather than memorizing code.
