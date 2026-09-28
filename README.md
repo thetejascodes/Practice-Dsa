@@ -16,7 +16,9 @@ The goal is to improve:
 
 * [x] 01 — Rectangular Star Pattern
 * [x] 02 — Right-Angled Triangle Pattern
-* [ ] 03 — Inverted Right-Angled Triangle
+* [x] 03 — Number Triangle
+* [x] 04 — Number Repetition
+* [ ] 05 — ...
 * [ ] ...
 
 ## Approach
@@ -30,3 +32,7 @@ For every problem, I try to:
 5. Test it
 6. Analyze complexity
 7. Explain the solution in my own words
+
+## Goal
+
+Build strong problem-solving fundamentals by solving problems consistently and understanding **why** the solution works, rather than memorizing code.
