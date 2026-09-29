@@ -21,6 +21,8 @@ The goal is to improve:
 * [x] 05 — Inverted Right-Angled Triangle
 * [x] 06 — Inverted Number Triangle
 * [x] 07 — Pyramid Star Pattern
+* [x] 08 — Inverted Pyramid Star Pattern
+* [x] 09 — Diamond Star Pattern
 
 ## Approach
 
