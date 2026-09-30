@@ -23,7 +23,7 @@ The goal is to improve:
 * [x] 07 — Pyramid Star Pattern
 * [x] 08 — Inverted Pyramid Star Pattern
 * [x] 09 — Diamond Star Pattern
-
+* [x] 10 — Half Diamond Star Pattern
 ## Approach
 
 For every problem, I try to:
