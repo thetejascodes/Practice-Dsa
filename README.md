@@ -4,7 +4,7 @@ A collection of my solutions and notes as I work through **Striver's A2Z DSA She
 
 ## Progress
 
-### Patterns: 13 / 13
+### Patterns: 22 / 13
 
 - [x] [01 — Rectangular Star Pattern](01-Patterns/01-Rectangular-Star-Pattern/README.md)
 - [x] [02 — Right-Angled Triangle](01-Patterns/02-Right-Angled-Triangle/README.md)
