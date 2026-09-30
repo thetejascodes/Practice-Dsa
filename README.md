@@ -4,7 +4,7 @@ A collection of my solutions and notes as I work through **Striver's A2Z DSA She
 
 ## Progress
 
-### Patterns: 11 / 11
+### Patterns: 12 / 12
 
 - [x] [01 — Rectangular Star Pattern](01-Patterns/01-Rectangular-Star-Pattern/README.md)
 - [x] [02 — Right-Angled Triangle](01-Patterns/02-Right-Angled-Triangle/README.md)
@@ -17,6 +17,7 @@ A collection of my solutions and notes as I work through **Striver's A2Z DSA She
 - [x] [09 — Diamond Star Pattern](01-Patterns/09-Diamond-Star-Pattern/README.md)
 - [x] [10 — Half Diamond Star Pattern](01-Patterns/10-Half-Diamond-Star-Pattern/README.md)
 - [x] [11 — Binary Number Triangle](01-Patterns/11-Binary-Number-Triangle/README.md)
+- [x] [12 — Number Crown](01-Patterns/12-Number-Crown/README.md)
 
 ## Practice Workflow
 
