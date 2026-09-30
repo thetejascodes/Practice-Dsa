@@ -4,7 +4,7 @@ A collection of my solutions and notes as I work through **Striver's A2Z DSA She
 
 ## Progress
 
-### Patterns: 22 / 14
+### Patterns: 22 / 15
 
 - [x] [01 — Rectangular Star Pattern](01-Patterns/01-Rectangular-Star-Pattern/README.md)
 - [x] [02 — Right-Angled Triangle](01-Patterns/02-Right-Angled-Triangle/README.md)
@@ -20,6 +20,7 @@ A collection of my solutions and notes as I work through **Striver's A2Z DSA She
 - [x] [12 — Number Crown](01-Patterns/12-Number-Crown/README.md)
 - [x] [13 — Increasing Number Triangle](01-Patterns/13-Increasing-Number-Triangle/README.md)
 - [x] [14 — Increasing Alphabet Triangle](01-Patterns/14-Increasing-Alphabet-Triangle/README.md)
+- [x] [15 — Decreasing Alphabet Triangle](01-Patterns/15-Decreasing-Alphabet-Triangle/README.md)
 
 ## Practice Workflow
 
