@@ -8,12 +8,20 @@ A collection of my solutions and notes as I work through **Striver's A2Z DSA She
 Practice-Dsa/
 ├── README.md
 ├── 01-Patterns/
+│   ├── README.md
 │   ├── 01-Rectangular-Star-Pattern/
 │   ├── 02-Right-Angled-Triangle/
 │   ├── ...
 │   └── 22-Concentric-Number-Square/
-└── 02-Time-Complexity/
+├── 02-Time-Complexity/
+│   └── README.md
+└── ...
 ```
+
+## Sections
+
+- [Patterns](01-Patterns/README.md)
+- [Time Complexity](02-Time-Complexity/README.md)
 
 ## Progress
 
