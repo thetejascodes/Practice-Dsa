@@ -4,7 +4,7 @@ A collection of my solutions and notes as I work through **Striver's A2Z DSA She
 
 ## Progress
 
-### Patterns: 18 / 18
+### Patterns: 19 / 19
 
 - [x] [01 — Rectangular Star Pattern](01-Patterns/01-Rectangular-Star-Pattern/README.md)
 - [x] [02 — Right-Angled Triangle](01-Patterns/02-Right-Angled-Triangle/README.md)
@@ -24,6 +24,7 @@ A collection of my solutions and notes as I work through **Striver's A2Z DSA She
 - [x] [16 — Repeated Alphabet Triangle](01-Patterns/16-Repeated-Alphabet-Triangle/README.md)
 - [x] [17 — Alphabet Palindrome Pyramid](01-Patterns/17-Alphabet-Palindrome-Pyramid/README.md)
 - [x] [18 — Increasing Reverse Alphabet Triangle](01-Patterns/18-Increasing-Reverse-Alphabet-Triangle/README.md)
+- [x] [19 — Star Butterfly Pattern](01-Patterns/19-Star-Butterfly-Pattern/README.md)
 
 ## Practice Workflow
 
