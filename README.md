@@ -2,6 +2,19 @@
 
 A collection of my solutions and notes as I work through **Striver's A2Z DSA Sheet**. Solutions are written in C++.
 
+## Repository Structure
+
+```text
+Practice-Dsa/
+├── README.md
+├── 01-Patterns/
+│   ├── 01-Rectangular-Star-Pattern/
+│   ├── 02-Right-Angled-Triangle/
+│   ├── ...
+│   └── 22-Concentric-Number-Square/
+└── 02-Time-Complexity/
+```
+
 ## Progress
 
 ### Patterns: 22 / 22
@@ -28,6 +41,10 @@ A collection of my solutions and notes as I work through **Striver's A2Z DSA She
 - [x] [20 — Butterfly Star Pattern](01-Patterns/20-Butterfly-Star-Pattern/README.md)
 - [x] [21 — Hollow Square Pattern](01-Patterns/21-Hollow-Square-Pattern/README.md)
 - [x] [22 — Concentric Number Square](01-Patterns/22-Concentric-Number-Square/README.md)
+
+### Time Complexity: in progress
+
+- [ ] [02 — Time Complexity](02-Time-Complexity/README.md)
 
 ## Practice Workflow
 
