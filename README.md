@@ -15,6 +15,8 @@ Practice-Dsa/
 │   └── 22-Concentric-Number-Square/
 ├── 02-Time-Complexity/
 │   └── README.md
+├── 03-Standard-Libraries/
+│   └── README.md
 └── ...
 ```
 
@@ -22,6 +24,7 @@ Practice-Dsa/
 
 - [Patterns](01-Patterns/README.md)
 - [Time Complexity](02-Time-Complexity/README.md)
+- [Standard Libraries & Collections](03-Standard-Libraries/README.md)
 
 ## Progress
 
@@ -50,9 +53,10 @@ Practice-Dsa/
 - [x] [21 — Hollow Square Pattern](01-Patterns/21-Hollow-Square-Pattern/README.md)
 - [x] [22 — Concentric Number Square](01-Patterns/22-Concentric-Number-Square/README.md)
 
-### Time Complexity: in progress
+### Theory
 
-- [ ] [02 — Time Complexity](02-Time-Complexity/README.md)
+- [ ] [Time Complexity](02-Time-Complexity/README.md)
+- [ ] [Standard Libraries & Collections](03-Standard-Libraries/README.md)
 
 ## Practice Workflow
 
